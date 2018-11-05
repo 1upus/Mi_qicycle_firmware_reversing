@@ -11,7 +11,7 @@ All you need is here:
 https://www.youtube.com/watch?v=xExwtIbshm4&list=PLDd-GkSSLXL65YVtP3JzEoyp325hLBBwY
 
 
-[b]I'm trying to reverce FW for:[/b]
+<b>I'm trying to reverce FW for:</b>
 - Edit font
 - Edit strings (normally, not HEX)
 
