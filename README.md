@@ -6,7 +6,8 @@ Now you can flash International firmware to your QiCycle with translation to lan
 - French
 - Italian
 - Spanish
-All you need is here:
+
+All you need is here: 
 https://www.youtube.com/watch?v=xExwtIbshm4&list=PLDd-GkSSLXL65YVtP3JzEoyp325hLBBwY
 
 I'm trying to reverce FW for:
@@ -21,7 +22,7 @@ Usefull links:
 - https://github.com/mtek-hack-hack/mtk-open-tools
 - https://github.com/donnm/mtk_fw_tools
 
-Forums 
+Forums: 
 - https://www.kosagi.com/forums/viewtopic.php?id=158&p=2
 - http://4pda.ru/forum/index.php?showtopic=670733&st=4020#entry54850559
 - http://4pda.ru/forum/index.php?showtopic=670733&st=7100#entry67349406
